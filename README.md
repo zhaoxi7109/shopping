@@ -8,9 +8,9 @@
 
 ## 主要效果
 
-| ![home](C:\Users\29976\Desktop\新建文件夹\home.png) | ![categories](C:\Users\29976\Desktop\新建文件夹\categories.png) | ![cart](C:\Users\29976\Desktop\新建文件夹\cart.png) |
-| --------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- |
-| ![cart](C:\Users\29976\Desktop\新建文件夹\cart.png) | ![cart](C:\Users\29976\Desktop\新建文件夹\cart.png)          | ![cart](C:\Users\29976\Desktop\新建文件夹\cart.png) |
+| ![home](./images/home.png) | ![categories](./images/categories.png) | ![cart](./images/cart.png) |
+| -------------------------- | -------------------------------------- | -------------------------- |
+| ![cart](./images/cart.png) | ![cart](images/cart.png)               | ![cart](images/cart.png)   |
 
 ## 🏗️ 项目架构
 
