@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pr-001",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "type": "earn",
+    "amount": 500,
+    "reason": "注册奖励",
+    "orderId": null,
+    "createdAt": "2025-06-25T06:06:20.282Z"
+  },
+  {
+    "id": "pr-002",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "type": "earn",
+    "amount": 1000,
+    "reason": "购物奖励",
+    "orderId": "order-001",
+    "createdAt": "2025-06-25T08:00:00.000Z"
+  },
+  {
+    "id": "pr-003",
+    "userId": "752d6a1c-ed9d-45e4-a08b-8935bbe5f9f2",
+    "type": "earn",
+    "amount": 500,
+    "reason": "注册奖励",
+    "orderId": null,
+    "createdAt": "2025-06-25T06:06:20.283Z"
+  },
+  {
+    "id": "pr-004",
+    "userId": "752d6a1c-ed9d-45e4-a08b-8935bbe5f9f2",
+    "type": "earn",
+    "amount": 300,
+    "reason": "购物奖励",
+    "orderId": "order-002",
+    "createdAt": "2025-06-25T10:00:00.000Z"
+  }
+]

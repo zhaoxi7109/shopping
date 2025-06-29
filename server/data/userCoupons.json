@@ -1,0 +1,110 @@
+[
+  {
+    "id": "uc-001",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "couponId": "coupon-001",
+    "status": "available",
+    "obtainedAt": "2025-06-25T06:06:20.282Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "uc-002",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "couponId": "coupon-002",
+    "status": "available",
+    "obtainedAt": "2025-06-25T06:06:20.282Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "uc-003",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "couponId": "coupon-003",
+    "status": "available",
+    "obtainedAt": "2025-06-25T06:06:20.282Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "uc-004",
+    "userId": "752d6a1c-ed9d-45e4-a08b-8935bbe5f9f2",
+    "couponId": "coupon-001",
+    "status": "available",
+    "obtainedAt": "2025-06-25T06:06:20.283Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "uc-005",
+    "userId": "752d6a1c-ed9d-45e4-a08b-8935bbe5f9f2",
+    "couponId": "coupon-004",
+    "status": "available",
+    "obtainedAt": "2025-06-25T06:06:20.283Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "a7ff746f-0244-4967-af7d-efabdee00903",
+    "userId": "user-001",
+    "couponId": "coupon-001",
+    "status": "available",
+    "obtainedAt": "2025-06-25T10:44:01.209Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "f48109a5-6ba2-459d-a6d0-faa857cd4eeb",
+    "userId": "user123",
+    "couponId": "coupon-001",
+    "status": "available",
+    "obtainedAt": "2025-06-25T11:23:29.383Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "uc-used-001",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "couponId": "coupon-004",
+    "status": "used",
+    "obtainedAt": "2025-06-20T06:06:20.282Z",
+    "usedAt": "2025-06-22T10:30:00.000Z",
+    "orderId": "order-001"
+  },
+  {
+    "id": "uc-used-002",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "couponId": "coupon-005",
+    "status": "used",
+    "obtainedAt": "2025-06-18T06:06:20.282Z",
+    "usedAt": "2025-06-20T14:20:00.000Z",
+    "orderId": "order-002"
+  },
+  {
+    "id": "uc-expired-001",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "couponId": "coupon-expired-001",
+    "status": "available",
+    "obtainedAt": "2025-06-15T06:06:20.282Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "8ec956ed-d87b-4b16-a2e3-e318b8cfaeb3",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "couponId": "coupon-006",
+    "status": "available",
+    "obtainedAt": "2025-06-26T06:48:18.875Z",
+    "usedAt": null,
+    "orderId": null
+  },
+  {
+    "id": "84bddec8-73e6-41a6-b3a5-72035fbe5f46",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "couponId": "coupon-007",
+    "status": "available",
+    "obtainedAt": "2025-06-26T06:48:35.397Z",
+    "usedAt": null,
+    "orderId": null
+  }
+]

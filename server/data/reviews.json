@@ -1,0 +1,44 @@
+[
+  {
+    "id": "f7c9b2e1-3d5a-4f8c-9e7b-1d2c3b4a5e6f",
+    "orderId": "26f5f9c1-29b5-4bd9-8139-8ee0dcf1b0c2",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "productId": "211c57b6-0035-43f8-902e-d630d27feb20",
+    "productName": "智能手表",
+    "productImage": "/static/images/products/watch1.jpg",
+    "rating": 5,
+    "content": "非常好用的智能手表，功能齐全，续航也很棒，戴了一周才充电一次，很满意这次购买！",
+    "images": [
+      "/static/images/reviews/watch_review1.jpg",
+      "/static/images/reviews/watch_review2.jpg"
+    ],
+    "isAnonymous": false,
+    "createdAt": "2023-07-25T08:30:00.000Z"
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
+    "orderId": "464c7532-21ab-4fb9-99e5-d6db463e1f52",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "productId": "211c57b6-0035-43f8-902e-d630d27feb20",
+    "productName": "智能手表",
+    "productImage": "/static/images/products/watch1.jpg",
+    "rating": 4,
+    "content": "手表整体不错，就是屏幕亮度在阳光下有点看不清，其他都挺好的，特别是运动功能很准确。",
+    "images": [],
+    "isAnonymous": true,
+    "createdAt": "2023-07-26T14:15:00.000Z"
+  },
+  {
+    "id": "q7w8e9r0-t1y2u3i4-o5p6a7s8-d9f0g1h2",
+    "orderId": "152dfb4d-9d5e-491a-9952-bb1d6d3b92d2",
+    "userId": null,
+    "productId": "211c57b6-0035-43f8-902e-d630d27feb20",
+    "productName": "智能手表",
+    "productImage": "/static/images/products/watch1.jpg",
+    "rating": 3,
+    "content": "手表一般般吧，功能是挺多的，但是操作不太流畅，有时候会卡顿，希望后续能有固件更新解决这个问题。",
+    "images": ["/static/images/reviews/watch_review3.jpg"],
+    "isAnonymous": true,
+    "createdAt": "2023-07-27T19:45:00.000Z"
+  }
+]

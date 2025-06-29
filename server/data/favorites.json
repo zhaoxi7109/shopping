@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ddc4fe01-2e1d-4af7-93aa-6e6e0e147e78",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "productId": "211c57b6-0035-43f8-902e-d630d27feb20",
+    "createdAt": "2025-06-25T14:57:29.255Z",
+    "updatedAt": "2025-06-25T14:57:29.255Z"
+  },
+  {
+    "id": "1ade4668-d3d2-4b03-bb07-dc9c00d54413",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "productId": "9d9ec282-6592-4d69-b548-d03be241c719",
+    "createdAt": "2025-06-29T00:48:27.992Z",
+    "updatedAt": "2025-06-29T00:48:27.992Z"
+  }
+]

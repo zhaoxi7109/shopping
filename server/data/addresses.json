@@ -1,0 +1,30 @@
+[
+  {
+    "id": "de6e19db-18f2-4849-a72d-ef868fe33008",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "name": "张三",
+    "mobile": "18184797361",
+    "province": "广东省",
+    "city": "深圳市",
+    "district": "南山区",
+    "detail": "无",
+    "tag": "家",
+    "isDefault": false,
+    "createdAt": "2025-06-25T08:47:40.407Z",
+    "updatedAt": "2025-06-25T08:52:23.694Z"
+  },
+  {
+    "id": "67ada16b-53a3-4fc9-bc7e-cd7c85afdac1",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "name": "李四",
+    "mobile": "18186962673",
+    "province": "广东省",
+    "city": "深圳市",
+    "district": "南山区",
+    "detail": "请求",
+    "tag": "学校",
+    "isDefault": true,
+    "createdAt": "2025-06-25T08:48:43.043Z",
+    "updatedAt": "2025-06-25T08:52:23.696Z"
+  }
+]

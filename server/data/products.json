@@ -1,0 +1,579 @@
+[
+  {
+    "id": "f649d4b8-c8d2-4183-9bc1-c5dd1645b474",
+    "name": "2023新款智能手机 全网通5G",
+    "subtitle": "6.7英寸全面屏 8GB+256GB 超长续航",
+    "description": "这是一款性能强劲的智能手机，采用最新的处理器，运行速度快，功耗低",
+    "price": "1999.00",
+    "originalPrice": "2599.00",
+    "images": [
+      "/static/images/products/phone1.jpg",
+      "/static/images/products/phone2.jpg",
+      "/static/images/products/phone3.jpg"
+    ],
+    "categoryId": "759e9143-4091-4e3f-9c27-3898b2333786",
+    "stock": 500,
+    "sales": 1000,
+    "rating": 4.8,
+    "reviewCount": 856,
+    "goodRate": 98,
+    "promotion": "满2000减200, 购买赠送保护壳+钢化膜",
+    "service": "正品保证 · 7天无理由退货 · 24小时发货",
+    "tags": [
+      "智能手机",
+      "5G",
+      "全面屏",
+      "长续航"
+    ],
+    "specifications": [
+      {
+        "name": "颜色",
+        "options": [
+          "黑色",
+          "白色",
+          "蓝色"
+        ]
+      },
+      {
+        "name": "版本",
+        "options": [
+          "8GB+128GB",
+          "8GB+256GB",
+          "12GB+256GB"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/detail1.jpg",
+        "/static/images/detail/detail2.jpg",
+        "/static/images/detail/detail3.jpg"
+      ],
+      "description": "<p style=\"font-size: 28rpx; color: #333; line-height: 1.8;\">这是一款性能强劲的智能手机，采用最新的处理器，运行速度快，功耗低。6.7英寸全面屏，显示效果细腻，色彩鲜艳。内置5000mAh大容量电池，支持快充技术，充电更快更安全。</p>"
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "createdAt": "2025-06-25T06:06:20.287Z",
+    "updatedAt": "2025-06-25T15:17:03.024Z"
+  },
+  {
+    "id": "7f8bad0b-c140-4cfe-8e0f-021fe2db0668",
+    "name": "超薄笔记本电脑",
+    "subtitle": "轻薄便携 高性能办公",
+    "description": "14英寸超薄笔记本，搭载最新处理器，轻薄便携，适合商务办公",
+    "price": "4999.00",
+    "originalPrice": "5999.00",
+    "images": [
+      "/static/images/products/laptop1.jpg",
+      "/static/images/products/laptop2.jpg"
+    ],
+    "categoryId": "759e9143-4091-4e3f-9c27-3898b2333786",
+    "stock": 80,
+    "sales": 890,
+    "rating": 4.6,
+    "reviewCount": 432,
+    "goodRate": 95,
+    "promotion": "购买送鼠标+电脑包",
+    "service": "正品保证 · 7天无理由退货 · 全国联保",
+    "tags": [
+      "笔记本",
+      "轻薄",
+      "办公",
+      "高性能"
+    ],
+    "specifications": [
+      {
+        "name": "颜色",
+        "options": [
+          "银色",
+          "深空灰"
+        ]
+      },
+      {
+        "name": "配置",
+        "options": [
+          "i5+8G+512G",
+          "i7+16G+1T"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/laptop_detail1.jpg"
+      ],
+      "description": "<p>超薄设计，仅重1.3kg，14英寸高清屏幕，续航可达10小时。</p>"
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "createdAt": "2025-06-25T06:06:20.288Z",
+    "updatedAt": "2025-06-25T06:06:20.288Z"
+  },
+  {
+    "id": "211c57b6-0035-43f8-902e-d630d27feb20",
+    "name": "智能手表",
+    "subtitle": "健康监测 运动追踪",
+    "description": "多功能智能手表，支持心率监测、运动追踪、消息提醒",
+    "price": "899.00",
+    "originalPrice": "1299.00",
+    "images": [
+      "/static/images/products/watch1.jpg",
+      "/static/images/products/watch2.jpg"
+    ],
+    "categoryId": "759e9143-4091-4e3f-9c27-3898b2333786",
+    "stock": 193,
+    "sales": 2107,
+    "rating": 4.5,
+    "reviewCount": 1200,
+    "goodRate": 92,
+    "promotion": "买一送一运动表带",
+    "service": "正品保证 · 一年质保 · 全国联保",
+    "tags": [
+      "智能手表",
+      "运动",
+      "健康",
+      "时尚"
+    ],
+    "specifications": [
+      {
+        "name": "颜色",
+        "options": [
+          "黑色",
+          "白色",
+          "粉色",
+          "蓝色"
+        ]
+      },
+      {
+        "name": "尺寸",
+        "options": [
+          "40mm",
+          "44mm"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/watch_detail1.jpg"
+      ],
+      "description": "<p>支持50+运动模式，7天长续航，IP68防水等级。</p>"
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "createdAt": "2025-06-25T06:06:20.288Z",
+    "updatedAt": "2025-06-29T02:53:47.696Z"
+  },
+  {
+    "id": "b892f93f-f71d-4508-853a-ee4b6ceabbd4",
+    "name": "无线蓝牙耳机",
+    "subtitle": "降噪通话 音质清晰",
+    "description": "真无线蓝牙耳机，主动降噪，长续航，适合运动和通话",
+    "price": "299.00",
+    "originalPrice": "399.00",
+    "images": [
+      "/static/images/products/headphone1.jpg",
+      "/static/images/products/headphone2.jpg"
+    ],
+    "categoryId": "759e9143-4091-4e3f-9c27-3898b2333786",
+    "stock": 150,
+    "sales": 680,
+    "rating": 4.7,
+    "reviewCount": 345,
+    "goodRate": 96,
+    "promotion": "买耳机送充电宝",
+    "service": "正品保证 · 一年质保 · 免费换新",
+    "tags": [
+      "蓝牙耳机",
+      "降噪",
+      "运动",
+      "音乐"
+    ],
+    "specifications": [
+      {
+        "name": "颜色",
+        "options": [
+          "白色",
+          "黑色",
+          "粉色"
+        ]
+      },
+      {
+        "name": "版本",
+        "options": [
+          "标准版",
+          "降噪版"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/headphone_detail1.jpg"
+      ],
+      "description": "<p>主动降噪技术，30小时续航，IPX4防水等级。</p>"
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "createdAt": "2025-06-25T06:06:20.289Z",
+    "updatedAt": "2025-06-25T06:06:20.289Z"
+  },
+  {
+    "id": "9d9ec282-6592-4d69-b548-d03be241c719",
+    "name": "高清平板电脑",
+    "subtitle": "大屏娱乐 学习办公",
+    "description": "10.9英寸高清平板，适合娱乐、学习和轻办公",
+    "price": "2599.00",
+    "originalPrice": "2999.00",
+    "images": [
+      "/static/images/products/tablet1.jpg",
+      "/static/images/products/tablet2.jpg"
+    ],
+    "categoryId": "759e9143-4091-4e3f-9c27-3898b2333786",
+    "stock": 119,
+    "sales": 1501,
+    "rating": 4.9,
+    "reviewCount": 980,
+    "goodRate": 97,
+    "promotion": "购买送键盘+保护套",
+    "service": "正品保证 · 一年质保 · 全国联保",
+    "tags": [
+      "平板电脑",
+      "大屏",
+      "娱乐",
+      "学习"
+    ],
+    "specifications": [
+      {
+        "name": "颜色",
+        "options": [
+          "银色",
+          "深空灰",
+          "玫瑰金"
+        ]
+      },
+      {
+        "name": "容量",
+        "options": [
+          "64GB",
+          "256GB",
+          "512GB"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/tablet_detail1.jpg"
+      ],
+      "description": "<p>10.9英寸Liquid视网膜显示屏，A14仿生芯片，支持Apple Pencil。</p>"
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "createdAt": "2025-06-25T06:06:20.290Z",
+    "updatedAt": "2025-06-29T02:32:52.249Z"
+  },
+  {
+    "id": "0be2670e-1a25-4613-8453-fcc4824c6d4b",
+    "name": "时尚休闲T恤",
+    "subtitle": "纯棉舒适 多色可选",
+    "description": "100%纯棉材质，舒适透气，经典版型，多色可选",
+    "price": "89.00",
+    "originalPrice": "129.00",
+    "images": [
+      "/static/images/products/tshirt1.jpg",
+      "/static/images/products/tshirt2.jpg"
+    ],
+    "categoryId": "dc1165ca-b04c-44c1-9d0e-d8ef2afedb77",
+    "stock": 300,
+    "sales": 2100,
+    "rating": 4.5,
+    "reviewCount": 1200,
+    "goodRate": 92,
+    "promotion": "买2件8折",
+    "service": "正品保证 · 7天无理由退换",
+    "tags": [
+      "T恤",
+      "休闲",
+      "纯棉",
+      "时尚"
+    ],
+    "specifications": [
+      {
+        "name": "颜色",
+        "options": [
+          "白色",
+          "黑色",
+          "灰色",
+          "蓝色",
+          "红色"
+        ]
+      },
+      {
+        "name": "尺码",
+        "options": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/tshirt_detail1.jpg"
+      ],
+      "description": "<p>采用优质纯棉面料，柔软舒适，透气性好，经典圆领设计。</p>"
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "createdAt": "2025-06-25T06:06:20.291Z",
+    "updatedAt": "2025-06-25T06:06:20.291Z"
+  },
+  {
+    "id": "e291b75a-697b-4f7f-a538-4fd88b9588d7",
+    "name": "运动休闲鞋",
+    "subtitle": "轻便透气 运动时尚",
+    "description": "轻便透气运动鞋，适合日常穿着和轻度运动",
+    "price": "299.00",
+    "originalPrice": "399.00",
+    "images": [
+      "/static/images/products/shoes1.jpg",
+      "/static/images/products/shoes2.jpg"
+    ],
+    "categoryId": "dc1165ca-b04c-44c1-9d0e-d8ef2afedb77",
+    "stock": 200,
+    "sales": 850,
+    "rating": 4.6,
+    "reviewCount": 520,
+    "goodRate": 94,
+    "promotion": "新品上市特价",
+    "service": "正品保证 · 7天无理由退换",
+    "tags": [
+      "运动鞋",
+      "休闲",
+      "透气",
+      "轻便"
+    ],
+    "specifications": [
+      {
+        "name": "颜色",
+        "options": [
+          "白色",
+          "黑色",
+          "蓝色",
+          "灰色"
+        ]
+      },
+      {
+        "name": "尺码",
+        "options": [
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/shoes_detail1.jpg"
+      ],
+      "description": "<p>采用透气网面设计，轻量化鞋底，提供舒适的穿着体验。</p>"
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "createdAt": "2025-06-25T06:06:20.292Z",
+    "updatedAt": "2025-06-25T06:06:20.292Z"
+  },
+  {
+    "id": "cf32b7ac-f1c7-484e-ac17-b7ac040efb14",
+    "name": "有机蔬菜礼盒",
+    "subtitle": "新鲜有机 绿色健康",
+    "description": "新鲜有机蔬菜，绿色健康，当日采摘配送",
+    "price": "128.00",
+    "originalPrice": "158.00",
+    "images": [
+      "/static/images/products/vegetables1.jpg",
+      "/static/images/products/vegetables2.jpg"
+    ],
+    "categoryId": "84c4858f-2a67-4877-89b8-4e3af6040a66",
+    "stock": 80,
+    "sales": 450,
+    "rating": 4.6,
+    "reviewCount": 230,
+    "goodRate": 95,
+    "promotion": "首次购买9折",
+    "service": "新鲜保证 · 当日配送",
+    "tags": [
+      "有机",
+      "蔬菜",
+      "新鲜",
+      "健康"
+    ],
+    "specifications": [
+      {
+        "name": "规格",
+        "options": [
+          "小份(3-4人)",
+          "中份(5-6人)",
+          "大份(7-8人)"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/vegetables_detail1.jpg"
+      ],
+      "description": "<p>精选有机蔬菜，无农药残留，营养丰富，当日采摘新鲜配送。</p>"
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "createdAt": "2025-06-25T06:06:20.293Z",
+    "updatedAt": "2025-06-25T06:06:20.293Z"
+  },
+  {
+    "id": "016d13be-40c9-47f2-866e-c6ec678f6408",
+    "name": "进口牛奶礼盒装",
+    "subtitle": "营养丰富 礼盒包装",
+    "description": "新鲜进口牛奶，营养丰富，精美礼盒包装",
+    "price": "168.00",
+    "originalPrice": "198.00",
+    "images": [
+      "/static/images/products/milk1.jpg",
+      "/static/images/products/milk2.jpg"
+    ],
+    "categoryId": "84c4858f-2a67-4877-89b8-4e3af6040a66",
+    "stock": 300,
+    "sales": 850,
+    "rating": 4.8,
+    "reviewCount": 420,
+    "goodRate": 96,
+    "promotion": "买2箱送1箱",
+    "service": "新鲜保证 · 冷链配送",
+    "tags": [
+      "牛奶",
+      "进口",
+      "营养",
+      "礼盒"
+    ],
+    "specifications": [
+      {
+        "name": "规格",
+        "options": [
+          "250ml*12盒",
+          "250ml*24盒"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/milk_detail1.jpg"
+      ],
+      "description": "<p>来自新西兰优质牧场，富含蛋白质和钙质，适合全家饮用。</p>"
+    },
+    "isActive": true,
+    "isFeatured": false,
+    "createdAt": "2025-06-25T06:06:20.294Z",
+    "updatedAt": "2025-06-25T06:06:20.294Z"
+  },
+  {
+    "id": "fca27830-ed7f-4d2e-a668-08b765a6e214",
+    "name": "智能扫地机器人",
+    "subtitle": "智能清扫 自动充电",
+    "description": "全自动清扫，智能规划路径，支持APP远程控制",
+    "price": "1299.00",
+    "originalPrice": "1599.00",
+    "images": [
+      "/static/images/products/robot1.jpg",
+      "/static/images/products/robot2.jpg"
+    ],
+    "categoryId": "7bee339d-9a6c-406a-9bf2-737999764ca1",
+    "stock": 50,
+    "sales": 680,
+    "rating": 4.7,
+    "reviewCount": 345,
+    "goodRate": 93,
+    "promotion": "限时特价",
+    "service": "正品保证 · 一年质保 · 免费安装",
+    "tags": [
+      "扫地机器人",
+      "智能家居",
+      "清洁",
+      "自动"
+    ],
+    "specifications": [
+      {
+        "name": "颜色",
+        "options": [
+          "白色",
+          "黑色"
+        ]
+      },
+      {
+        "name": "容量",
+        "options": [
+          "600ml尘盒"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/robot_detail1.jpg"
+      ],
+      "description": "<p>激光导航，智能规划清扫路径，2700Pa大吸力，支持拖扫一体。</p>"
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "createdAt": "2025-06-25T06:06:20.295Z",
+    "updatedAt": "2025-06-25T06:06:20.295Z"
+  },
+  {
+    "id": "45e3cb83-3981-4169-bada-572fa9e9008a",
+    "name": "兰蔻小黑瓶精华",
+    "subtitle": "修护精华 提亮肤色",
+    "description": "修护精华，改善肌肤状态，提亮肤色，抗衰老",
+    "price": "680.00",
+    "originalPrice": "780.00",
+    "images": [
+      "/static/images/products/lancome1.jpg",
+      "/static/images/products/lancome2.jpg"
+    ],
+    "categoryId": "be225b57-b312-437d-b5f0-512e08c9bbdd",
+    "stock": 120,
+    "sales": 1500,
+    "rating": 4.9,
+    "reviewCount": 980,
+    "goodRate": 98,
+    "promotion": "买正装送小样",
+    "service": "正品保证 · 专柜同款",
+    "tags": [
+      "兰蔻",
+      "精华",
+      "护肤",
+      "美妆"
+    ],
+    "specifications": [
+      {
+        "name": "规格",
+        "options": [
+          "30ml",
+          "50ml",
+          "100ml"
+        ]
+      }
+    ],
+    "details": {
+      "images": [
+        "/static/images/detail/lancome_detail1.jpg"
+      ],
+      "description": "<p>含有二裂酵母发酵产物溶胞物，深层修护肌肤，提升肌肤光泽。</p>"
+    },
+    "isActive": true,
+    "isFeatured": true,
+    "createdAt": "2025-06-25T06:06:20.295Z",
+    "updatedAt": "2025-06-25T06:06:20.296Z"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "69daefef-01c5-4b5f-b6f0-c088fd172c2a",
+    "keyword": "iPhone",
+    "count": 1502,
+    "lastSearchTime": "2025-06-26T09:02:09.312Z",
+    "createdAt": "2025-06-25T06:06:20.301Z",
+    "updatedAt": "2025-06-26T09:02:09.312Z"
+  },
+  {
+    "id": "731983ba-62e2-4b70-ab0a-298a60aada37",
+    "keyword": "小米",
+    "count": 1201,
+    "lastSearchTime": "2025-06-26T09:00:39.941Z",
+    "createdAt": "2025-06-25T06:06:20.302Z",
+    "updatedAt": "2025-06-26T09:00:39.941Z"
+  },
+  {
+    "id": "e29c02e7-0e50-4151-9098-7d14e3d12120",
+    "keyword": "T恤",
+    "count": 801,
+    "lastSearchTime": "2025-06-26T09:01:45.912Z",
+    "createdAt": "2025-06-25T06:06:20.302Z",
+    "updatedAt": "2025-06-26T09:01:45.912Z"
+  },
+  {
+    "id": "dbc91c9e-a2d3-4acc-a759-7514bbf44277",
+    "keyword": "扫地机器人",
+    "count": 602,
+    "lastSearchTime": "2025-06-26T09:01:41.024Z",
+    "createdAt": "2025-06-25T06:06:20.303Z",
+    "updatedAt": "2025-06-26T09:01:41.025Z"
+  },
+  {
+    "id": "3a49c8a3-ed5f-46fe-9af5-c1ccf9b70098",
+    "keyword": "兰蔻",
+    "count": 900,
+    "lastSearchTime": "2025-06-25T06:06:20.300Z",
+    "createdAt": "2025-06-25T06:06:20.304Z",
+    "updatedAt": "2025-06-25T06:06:20.304Z"
+  },
+  {
+    "id": "ff0fcb6b-e869-496f-9ff9-4085beaf2a82",
+    "keyword": "牛奶",
+    "count": 401,
+    "lastSearchTime": "2025-06-26T09:01:33.267Z",
+    "createdAt": "2025-06-25T06:06:20.304Z",
+    "updatedAt": "2025-06-26T09:01:33.268Z"
+  },
+  {
+    "id": "fc6cd1cf-5744-4a89-8d88-2a5e1217ed1c",
+    "keyword": "手机",
+    "count": 2000,
+    "lastSearchTime": "2025-06-25T06:06:20.300Z",
+    "createdAt": "2025-06-25T06:06:20.305Z",
+    "updatedAt": "2025-06-25T06:06:20.305Z"
+  },
+  {
+    "id": "c0dbf98a-19d3-4f03-972e-0342cf07353f",
+    "keyword": "护肤",
+    "count": 701,
+    "lastSearchTime": "2025-06-26T09:00:44.583Z",
+    "createdAt": "2025-06-25T06:06:20.306Z",
+    "updatedAt": "2025-06-26T09:00:44.583Z"
+  }
+]

@@ -1,0 +1,6 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f0f0f0"/>
+  <line x1="0" y1="0" x2="400" y2="300" stroke="#cccccc" stroke-width="2"/>
+  <line x1="400" y1="0" x2="0" y2="300" stroke="#cccccc" stroke-width="2"/>
+  <text x="200" y="150" font-family="Arial" font-size="24" text-anchor="middle" fill="#999999">图片加载中</text>
+</svg> 

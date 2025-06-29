@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>高德地图测试</title>
+    <style>
+        #container {
+            width: 100%;
+            height: 500px;
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    
+    <script>
+        // 动态加载高德地图API
+        function loadAMapAPI() {
+            return new Promise((resolve, reject) => {
+                if (window.AMap) {
+                    resolve();
+                    return;
+                }
+                
+                const script = document.createElement('script');
+                script.src = 'https://webapi.amap.com/maps?v=2.0&key=95145f5619f2cc78270d66b3722a221c';
+                script.onload = () => {
+                    console.log('高德地图API加载成功');
+                    resolve();
+                };
+                script.onerror = (error) => {
+                    console.error('高德地图API加载失败:', error);
+                    reject(error);
+                };
+                document.head.appendChild(script);
+            });
+        }
+        
+        // 创建地图
+        function createMap() {
+            try {
+                const map = new AMap.Map('container', {
+                    zoom: 16,
+                    center: [116.397428, 39.90923],
+                    mapStyle: 'amap://styles/normal',
+                    resizeEnable: true,
+                    viewMode: '2D'
+                });
+                
+                console.log('地图创建成功:', map);
+                
+                map.on('complete', () => {
+                    console.log('地图加载完成');
+                });
+                
+                map.on('error', (e) => {
+                    console.error('地图错误:', e);
+                });
+                
+            } catch (error) {
+                console.error('创建地图失败:', error);
+            }
+        }
+        
+        // 初始化
+        loadAMapAPI().then(() => {
+            createMap();
+        }).catch((error) => {
+            console.error('初始化失败:', error);
+        });
+    </script>
+</body>
+</html>

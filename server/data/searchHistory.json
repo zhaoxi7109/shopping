@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dabf2313-3404-45f3-8fa9-1f9362adeb1d",
+    "userId": "8e9620c2-e95c-4670-b9c4-fe1692888263",
+    "keyword": "牛奶",
+    "searchTime": "2025-06-25T02:00:45.471Z",
+    "createdAt": "2025-06-25T02:00:45.472Z",
+    "updatedAt": "2025-06-25T02:00:45.472Z"
+  },
+  {
+    "id": "525b05e6-d2a2-4cfb-8eee-cca2503ec7a0",
+    "userId": "8e9620c2-e95c-4670-b9c4-fe1692888263",
+    "keyword": "iPhone",
+    "searchTime": "2025-06-25T04:16:23.924Z",
+    "createdAt": "2025-06-25T04:16:23.924Z",
+    "updatedAt": "2025-06-25T04:16:23.924Z"
+  },
+  {
+    "id": "1166461c-01eb-498d-9e6d-299f344a4f52",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "keyword": "iPhone",
+    "searchTime": "2025-06-26T09:00:34.044Z",
+    "createdAt": "2025-06-26T09:00:34.045Z",
+    "updatedAt": "2025-06-26T09:00:34.045Z"
+  },
+  {
+    "id": "782e4442-f31b-46d3-893d-f11205e4ab70",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "keyword": "小米",
+    "searchTime": "2025-06-26T09:00:39.940Z",
+    "createdAt": "2025-06-26T09:00:39.940Z",
+    "updatedAt": "2025-06-26T09:00:39.940Z"
+  },
+  {
+    "id": "b411ae1b-1cd2-432c-b934-d624b327d389",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "keyword": "护肤",
+    "searchTime": "2025-06-26T09:00:44.581Z",
+    "createdAt": "2025-06-26T09:00:44.582Z",
+    "updatedAt": "2025-06-26T09:00:44.582Z"
+  },
+  {
+    "id": "523fd77b-688b-431c-8c78-020e9467bade",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "keyword": "扫地机器人",
+    "searchTime": "2025-06-26T09:00:49.449Z",
+    "createdAt": "2025-06-26T09:00:49.449Z",
+    "updatedAt": "2025-06-26T09:00:49.449Z"
+  },
+  {
+    "id": "54bfb164-bcf6-46c9-b441-0dac6d495354",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "keyword": "牛奶",
+    "searchTime": "2025-06-26T09:01:33.266Z",
+    "createdAt": "2025-06-26T09:01:33.266Z",
+    "updatedAt": "2025-06-26T09:01:33.266Z"
+  },
+  {
+    "id": "5a92c1f8-c3a4-48a5-88fd-0fd1c5ada72e",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "keyword": "扫地机器人",
+    "searchTime": "2025-06-26T09:01:41.023Z",
+    "createdAt": "2025-06-26T09:01:41.023Z",
+    "updatedAt": "2025-06-26T09:01:41.023Z"
+  },
+  {
+    "id": "7ae96519-faba-43c6-b78d-c457e4e44667",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "keyword": "T恤",
+    "searchTime": "2025-06-26T09:01:45.911Z",
+    "createdAt": "2025-06-26T09:01:45.911Z",
+    "updatedAt": "2025-06-26T09:01:45.911Z"
+  },
+  {
+    "id": "d1d2688e-669b-4180-801f-d54d65e136ef",
+    "userId": "b0b80ae2-4d83-447c-88bc-62af3408a067",
+    "keyword": "iPhone",
+    "searchTime": "2025-06-26T09:02:09.309Z",
+    "createdAt": "2025-06-26T09:02:09.310Z",
+    "updatedAt": "2025-06-26T09:02:09.310Z"
+  }
+]

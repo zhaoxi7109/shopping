@@ -1,0 +1,46 @@
+[
+  {
+    "id": "bcb17673-9636-48f2-9a60-7fe5e14d5240",
+    "title": "新品上市",
+    "image": "/static/images/banner/banner1.jpg",
+    "link": "/pages/product/list?category=new",
+    "type": "home",
+    "sort": 1,
+    "isActive": true,
+    "createdAt": "2025-06-25T06:06:20.297Z",
+    "updatedAt": "2025-06-25T06:06:20.297Z"
+  },
+  {
+    "id": "fe30401f-6a70-4608-b60b-dd2f280c4a36",
+    "title": "限时特惠",
+    "image": "/static/images/banner/banner2.jpg",
+    "link": "/pages/product/list?category=sale",
+    "type": "home",
+    "sort": 2,
+    "isActive": true,
+    "createdAt": "2025-06-25T06:06:20.298Z",
+    "updatedAt": "2025-06-25T06:06:20.298Z"
+  },
+  {
+    "id": "2b790311-f37d-4e1f-a3d7-ab49704f7752",
+    "title": "品牌专区",
+    "image": "/static/images/banner/banner3.jpg",
+    "link": "/pages/product/list?category=brand",
+    "type": "home",
+    "sort": 3,
+    "isActive": true,
+    "createdAt": "2025-06-25T06:06:20.298Z",
+    "updatedAt": "2025-06-25T06:06:20.298Z"
+  },
+  {
+    "id": "8c6298bb-3e91-4cee-864e-fcd8c3106d9c",
+    "title": "春季新品",
+    "image": "/static/images/banner/banner4.jpg",
+    "link": "/pages/product/list?category=spring",
+    "type": "home",
+    "sort": 4,
+    "isActive": true,
+    "createdAt": "2025-06-25T06:06:20.299Z",
+    "updatedAt": "2025-06-25T06:06:20.299Z"
+  }
+]

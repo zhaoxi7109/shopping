@@ -1,0 +1,57 @@
+[
+  {
+    "id": "759e9143-4091-4e3f-9c27-3898b2333786",
+    "name": "手机数码",
+    "icon": "/static/images/category/phone.png",
+    "banner": "/static/images/categoryBanner/banner_phone.jpg",
+    "sort": 1,
+    "isActive": true,
+    "parentId": null,
+    "createdAt": "2025-06-25T06:06:20.284Z",
+    "updatedAt": "2025-06-25T06:06:20.284Z"
+  },
+  {
+    "id": "dc1165ca-b04c-44c1-9d0e-d8ef2afedb77",
+    "name": "服装鞋包",
+    "icon": "/static/images/category/clothing.png",
+    "banner": "/static/images/categoryBanner/banner_clothing.jpg",
+    "sort": 2,
+    "isActive": true,
+    "parentId": null,
+    "createdAt": "2025-06-25T06:06:20.284Z",
+    "updatedAt": "2025-06-25T06:06:20.284Z"
+  },
+  {
+    "id": "84c4858f-2a67-4877-89b8-4e3af6040a66",
+    "name": "食品生鲜",
+    "icon": "/static/images/category/food.png",
+    "banner": "/static/images/categoryBanner/banner_food.jpg",
+    "sort": 3,
+    "isActive": true,
+    "parentId": null,
+    "createdAt": "2025-06-25T06:06:20.285Z",
+    "updatedAt": "2025-06-25T06:06:20.285Z"
+  },
+  {
+    "id": "7bee339d-9a6c-406a-9bf2-737999764ca1",
+    "name": "家居家装",
+    "icon": "/static/images/category/home.png",
+    "banner": "/static/images/categoryBanner/banner_home.jpg",
+    "sort": 4,
+    "isActive": true,
+    "parentId": null,
+    "createdAt": "2025-06-25T06:06:20.285Z",
+    "updatedAt": "2025-06-25T06:06:20.285Z"
+  },
+  {
+    "id": "be225b57-b312-437d-b5f0-512e08c9bbdd",
+    "name": "美妆个护",
+    "icon": "/static/images/category/beauty.png",
+    "banner": "/static/images/categoryBanner/banner_beauty.jpg",
+    "sort": 5,
+    "isActive": true,
+    "parentId": null,
+    "createdAt": "2025-06-25T06:06:20.286Z",
+    "updatedAt": "2025-06-25T06:06:20.286Z"
+  }
+]

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <rect width="160" height="160" fill="#f5f5f5"/>
+  <rect x="40" y="40" width="80" height="80" fill="#e0e0e0" rx="8"/>
+  <circle cx="60" cy="65" r="8" fill="#ccc"/>
+  <polygon points="45,95 75,75 85,85 115,65 115,105 45,105" fill="#ccc"/>
+  <text x="80" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#999">暂无图片</text>
+</svg>
